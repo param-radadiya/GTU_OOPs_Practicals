@@ -2,7 +2,8 @@
 For GTU student, practicles of subject Object Oriented Programming in JAVA(3140705) are available.
 
 
-#Path : GTU_OOPs_Practicals/practicals/out/production/practicals/com/company/
+#Path : GTU_OOPs_Practicals/practicals/src/com/company/
+
 
 The list of practical is
 
