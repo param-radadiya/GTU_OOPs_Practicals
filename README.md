@@ -56,8 +56,6 @@ integers between 1 and 49 using the NextInt (49) method.
 operator are separated by zero or more spaces.
 For ex: 3+4 and 3 + 4 are acceptable expressions.
 
-Remaining : (Will add soon...)
-
 14) Write a program that creates an Array List and adds a Loan object , a Date object , a string, and a
 Circle object to the list, and use a loop to display all elements in the list by invoking the object’s to
 String() method.
@@ -70,6 +68,9 @@ string.
 fraction.
 Hint: Read the decimal number as a string, extract the integer part and fractional part from the
 string.
+
+
+Remaining : (Will add soon...)
 
 17) Write a program that displays a tic-tac-toe board. A cell may be X, O, or empty. What to display at
 each cell is randomly decided. The X and O are images in the files X.gif and O.gif.
