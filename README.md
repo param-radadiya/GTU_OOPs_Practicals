@@ -1,11 +1,11 @@
 # GTU_OOPs_Practicals
-For GTU student, practicles of subject Object Oriented Programming in JAVA(3140705) are available.
+
+## For GTU student, practicles of subject Object Oriented Programming in JAVA(3140705) are here with all files + hand-written assignment + Manual file.
+
+## Path of *.java* files : GTU_OOPs_Practicals/practicals/src/com/company/
 
 
-#Path : GTU_OOPs_Practicals/practicals/src/com/company/
-
-
-The list of practical is
+### Parctical List : 
 
 
 1) Write a Program that displays Welcome to Java, Learning Java Now and Programming is fun.
