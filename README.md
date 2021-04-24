@@ -7,7 +7,6 @@ For GTU student, practicles of subject Object Oriented Programming in JAVA(31407
 
 The list of practical is
 
-Added :
 
 1) Write a Program that displays Welcome to Java, Learning Java Now and Programming is fun.
 
@@ -69,9 +68,6 @@ fraction.
 Hint: Read the decimal number as a string, extract the integer part and fractional part from the
 string.
 
-
-Remaining : (Will add soon...)
-
 17) Write a program that displays a tic-tac-toe board. A cell may be X, O, or empty. What to display at
 each cell is randomly decided. The X and O are images in the files X.gif and O.gif.
 
@@ -87,8 +83,9 @@ button to change the color for the message displayed.
 already exist. write 150 integers created randomly into the file using Text I/O. Integers are
 separated by space.
 
-22) Write a recursive method that returns the smallest integer in an array. Write a test program that
-prompts the user to enter an integer and display its product.
+22-A) Write a recursive method that returns the smallest integer in an array. 
+
+22-B) Write a test program that prompts the user to enter an integer and display its product.
 
 23) Write a generic method that returns the minimum elements in a two dimensional array.
 
